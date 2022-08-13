@@ -1,2 +1,2 @@
 # alg
-Algoritmos -- ADS IFTM
+Algoritmos Utilizando português estruturado e phyton -- ADS IFTM
